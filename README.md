@@ -1,6 +1,6 @@
 E101 — Приложение для знакомств
 
-Backend для сервиса знакомств на Java 1, Spring Boot.
+Backend для сервиса знакомств на Java, Spring Boot.
 
 Технологии
 - Java 17
